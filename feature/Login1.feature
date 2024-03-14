@@ -16,4 +16,4 @@ Feature: Log in functionality
       | username | password |
       | Admin    | admin123 |
       | adminxyz | jojo123  |
-		#	| gogototo |  123345	|
+		##	| gogototo |  123345	|
